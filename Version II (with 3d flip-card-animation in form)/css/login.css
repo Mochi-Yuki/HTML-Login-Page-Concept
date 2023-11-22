@@ -108,29 +108,23 @@ html,
 }
 
 .bx1,
-#hide-back,
-#show-back {
+#toggle-icon-back {
     margin-right: 10px;
 }
 
-
 .bx2, /* 'bx2': reverse from 'bx1' to achieve desired positioning after 3d-transforming */
-#hide-front,
-#show-front {
+#toggle-icon-front {
     margin-left: 10px;
 }
 
-#hide-front, 
-#show-front,
-#hide-back,
-#show-back { 
+#toggle-icon-front, 
+#toggle-icon-back { 
     font-size: 18px;
     color: dimgray; 
 } 
 
-#show-front,
-#show-back { 
-    display: none; 
+.bx.bxs-show { 
+    display: inline; 
 } 
 
 .input1,

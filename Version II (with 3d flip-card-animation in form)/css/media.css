@@ -87,16 +87,14 @@
         font-size: 1.2rem;
     }
 
-    #hide-front,
-    #show-front {
-        margin-left: 7px;
+    #toggle-icon-front {
+        margin-left: 7px; 
     }
-
-    #hide-back,
-    #show-back {
-        margin-right: 7px;
+    
+    #toggle-icon-back {
+        margin-right: 7px; 
     }
-
+ 
     .input-container {
         margin-bottom: 10px;
     }
