@@ -84,8 +84,8 @@
         font-size: 1.2rem;
     }
 
-    .bx.bxs-hide,
-    .bx.bxs-show {
+    #toggle-icon-front,
+    #toggle-icon-back {
         margin-left: 7px;
     }
 

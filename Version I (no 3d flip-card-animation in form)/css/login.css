@@ -110,14 +110,14 @@ html,
     margin-right: 10px; 
 } 
 
-.bx.bxs-hide, 
-.bx.bxs-show { 
+#toggle-icon-front, 
+#toggle-icon-back { 
     color: dimgray; 
     margin-left: 10px; 
 } 
 
 .bx.bxs-show { 
-    display: none; 
+    display: inline; 
 } 
 
 .input {
